@@ -1,0 +1,35 @@
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Python / Django
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.venv/
+venv/
+ENV/
+db.sqlite3
+db.sqlite3-journal
+static_root/
+media/
+backend/src/static/
+
+# Node / Frontend
+node_modules/
+dist/
+build/
+.eslintcache
+.vite/
+
+# Logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# OS
+.DS_Store
+Thumbs.db

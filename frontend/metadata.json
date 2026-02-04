@@ -1,0 +1,5 @@
+{
+  "name": "URL Shortener - Auth Module",
+  "description": "Phase 1 of a production-grade URL shortener application, implementing secure Django session-based authentication with email-based OTP verification and a responsive React frontend.",
+  "requestFramePermissions": []
+}
