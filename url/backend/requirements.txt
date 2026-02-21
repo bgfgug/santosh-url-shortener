@@ -1,0 +1,25 @@
+# Core
+Django>=4.2,<5.0
+djangorestframework>=3.14,<4.0
+
+# Authentication
+djangorestframework-simplejwt>=5.3,<6.0
+
+# Database
+psycopg2-binary>=2.9,<3.0
+
+# Environment
+python-decouple>=3.8,<4.0
+
+# CORS
+django-cors-headers>=4.3,<5.0
+
+# QR Code
+qrcode[pil]>=7.4,<8.0
+
+# Production Server
+gunicorn>=21.2,<23.0
+
+# Testing
+factory-boy>=3.3,<4.0
+faker>=20.0,<30.0
